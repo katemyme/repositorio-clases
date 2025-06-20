@@ -1,0 +1,6 @@
+Nombres  Promedio
+Laura: | 75.75
+Luis: | 82.50
+Francisco: | 85.75
+Sara: | 99.75
+Roberto: | 66.75
